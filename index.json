@@ -1,5 +1,5 @@
 {
-  "source": "刘润《决策的54个基本·更新版》",
+  "source": "《决策的54个基本·更新版》",
   "rules": [
     { "id": 1, "name": "期望收益最大化", "category": "期望与概率", "keywords": ["期望收益", "概率", "胜率", "赔率"], "file": "references/probability-habits.md" },
     { "id": 2, "name": "合理下注", "category": "期望与概率", "keywords": ["下注", "留一手", "all-in", "凯利"], "file": "references/probability-habits.md" },

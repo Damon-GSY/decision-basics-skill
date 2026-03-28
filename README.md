@@ -1,6 +1,6 @@
 # Decision Basics Skill
 
-决策基本顾问 Skill，基于刘润《决策的54个基本·更新版》54个决策法则。
+决策基本顾问 Skill，基于《决策的54个基本·更新版》54个决策法则。
 
 ## 安装
 
@@ -30,7 +30,7 @@ cp -r decision-basics-skill ~/.openclaw/skills/
 
 ## 来源
 
-- 刘润《决策的54个基本·更新版》
+- 《决策的54个基本·更新版》
 - Skill 设计：OpenClaw AgentSkills 格式
 
 ## License
